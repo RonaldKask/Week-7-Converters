@@ -1,0 +1,13 @@
+C:\Users\opilane\source\repos\Week7Converters\Week7Converters\bin\Debug\netcoreapp3.1\Week7Converters.exe
+C:\Users\opilane\source\repos\Week7Converters\Week7Converters\bin\Debug\netcoreapp3.1\Week7Converters.deps.json
+C:\Users\opilane\source\repos\Week7Converters\Week7Converters\bin\Debug\netcoreapp3.1\Week7Converters.runtimeconfig.json
+C:\Users\opilane\source\repos\Week7Converters\Week7Converters\bin\Debug\netcoreapp3.1\Week7Converters.runtimeconfig.dev.json
+C:\Users\opilane\source\repos\Week7Converters\Week7Converters\bin\Debug\netcoreapp3.1\Week7Converters.dll
+C:\Users\opilane\source\repos\Week7Converters\Week7Converters\bin\Debug\netcoreapp3.1\Week7Converters.pdb
+C:\Users\opilane\source\repos\Week7Converters\Week7Converters\obj\Debug\netcoreapp3.1\Week7Converters.csprojAssemblyReference.cache
+C:\Users\opilane\source\repos\Week7Converters\Week7Converters\obj\Debug\netcoreapp3.1\Week7Converters.AssemblyInfoInputs.cache
+C:\Users\opilane\source\repos\Week7Converters\Week7Converters\obj\Debug\netcoreapp3.1\Week7Converters.AssemblyInfo.cs
+C:\Users\opilane\source\repos\Week7Converters\Week7Converters\obj\Debug\netcoreapp3.1\Week7Converters.csproj.CoreCompileInputs.cache
+C:\Users\opilane\source\repos\Week7Converters\Week7Converters\obj\Debug\netcoreapp3.1\Week7Converters.dll
+C:\Users\opilane\source\repos\Week7Converters\Week7Converters\obj\Debug\netcoreapp3.1\Week7Converters.pdb
+C:\Users\opilane\source\repos\Week7Converters\Week7Converters\obj\Debug\netcoreapp3.1\Week7Converters.genruntimeconfig.cache
